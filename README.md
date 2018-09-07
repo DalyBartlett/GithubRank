@@ -1,4 +1,4 @@
-# GithubRank
+# SourceRank
 
 Which development language do you want to learn? You don't know where to look for great resources. Here are the excellent authors and resources on Github.
 feature:
