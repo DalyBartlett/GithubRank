@@ -14,5 +14,7 @@ feature:
 #• Excellent github source list
 
 
-#update details 
-#Newly added Golo, Zimpl, Cirru, Cycript, Jasmin 5 development languages
+if you have some advices about SourceRank App. or have some bugs about SourceRank App.
+please tell us.
+Email: 
+drrbht@yeah.net
